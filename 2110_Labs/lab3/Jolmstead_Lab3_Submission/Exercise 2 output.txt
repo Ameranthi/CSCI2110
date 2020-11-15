@@ -1,0 +1,37 @@
+Exercise 2 Output
+
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49576:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/julia/Desktop/2110/2110_Labs/lab3/out/production/lab3 GenericQueueTester
+halifax london berlin tokyo 
+1 3 4 5 -1
+String Queue Contents
+halifax
+london
+berlin
+tokyo
+
+Integer Queue contents
+1
+3
+4
+5
+
+Process finished with exit code 0
+
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=49632:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/julia/Desktop/2110/2110_Labs/lab3/out/production/lab3 GenericQueueTester
+dubai halifax honkong toronto quit
+1 3 5 6 -1
+String Queue Contents
+dubai
+halifax
+honkong
+toronto
+
+Integer Queue contents
+1
+3
+5
+6
+
+Process finished with exit code 0

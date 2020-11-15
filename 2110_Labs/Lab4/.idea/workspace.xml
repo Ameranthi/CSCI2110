@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0bc08bc-4130-4226-9334-add2a98d49a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVg7vNL2D1zu2oxEAFowQwgeF8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GeographyQuiz">
+    <configuration name="ExpenseListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExpenseListDemo" />
+      <module name="Lab4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeographyQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeographyQuiz" />
+      <module name="Lab4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeographyQuiz" />
+        <item itemvalue="Application.ExpenseListDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0bc08bc-4130-4226-9334-add2a98d49a9" name="Default Changelist" comment="" />
+      <created>1601998009974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601998009974</updated>
+      <workItem from="1601998013163" duration="9000" />
+      <workItem from="1601998059430" duration="39000" />
+      <workItem from="1601998131711" duration="206000" />
+      <workItem from="1601998343432" duration="498000" />
+      <workItem from="1602081187495" duration="2003000" />
+      <workItem from="1602608782169" duration="9329000" />
+      <workItem from="1602633611484" duration="358000" />
+      <workItem from="1603043967661" duration="1034000" />
+      <workItem from="1603301887538" duration="614000" />
+      <workItem from="1603322254848" duration="235000" />
+      <workItem from="1603562861794" duration="48000" />
+      <workItem from="1604428405501" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1601998320564">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1601998320564" />
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601998180357">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1601998180357" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1602633527831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602633527831" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1602633527830">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602633527830" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1602633527829">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602633527829" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1602633527830">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602633527830" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1603562885879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1603562885879" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.792@0.23.1440.792" timestamp="1603322322570" />
+    <state x="357" y="72" key="new project wizard" timestamp="1603562906841">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="357" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1603562906841" />
+  </component>
+</project>

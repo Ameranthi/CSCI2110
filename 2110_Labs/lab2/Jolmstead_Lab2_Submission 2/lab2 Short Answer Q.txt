@@ -1,0 +1,8 @@
+Short answer Q:
+
+The java.lang.OutOfMemoryError exception can mean : I only have a certain amount of default memory space and I went over the memory aka I ran out of memory. 
+Or 
+OutOfMemoryError could mean that you are holding onto objects too long, or trying to process too much data at a time. (Probably the later)
+sometimes, it has nothing to do with objects on the heap.
+
+-- https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/

@@ -1,0 +1,72 @@
+ßßßThe first Circle's centre is: 5.0, 5.0
+It's radius is: 4.0
+It's area is: 50.2
+It's circumference is: 25.1
+The second Circle's centre is: 10.0, 2.0
+It's radius is: 3.0
+It's area is: 28.3
+It's circumference is: 18.8
+The 'contains' method returns: false
+The 'touches' method returns: false
+
+
+The first Circle's centre is: 4.0, 2.0
+It's radius is: 1.0
+It's area is: 3.1
+It's circumference is: 6.3
+The second Circle's centre is: 2.0, 2.0
+It's radius is: 1.0
+It's area is: 3.1
+It's circumference is: 6.3
+The 'contains' method returns: false
+The 'touches' method returns: true
+
+
+The first Circle's centre is: 4.0, 2.0
+It's radius is: 4.0
+It's area is: 50.2
+It's circumference is: 25.1
+The second Circle's centre is: 2.0, 2.0
+It's radius is: 2.0
+It's area is: 12.6
+It's circumference is: 12.6
+The 'contains' method returns: false
+The 'touches' method returns: true
+
+
+The first Circle's centre is: 4.0, 4.0
+It's radius is: 5.0
+It's area is: 78.5
+It's circumference is: 31.4
+The second Circle's centre is: 4.0, 4.0
+It's radius is: 2.0
+It's area is: 12.6
+It's circumference is: 12.6
+The 'contains' method returns: true
+The 'touches' method returns: false
+
+
+The first Circle's centre is: 2.0, 2.0
+It's radius is: 5.0
+It's area is: 78.5
+It's circumference is: 31.4
+The second Circle's centre is: 4.0, 4.0
+It's radius is: 5.0
+It's area is: 78.5
+It's circumference is: 31.4
+The 'contains' method returns: false
+The 'touches' method returns: false
+
+
+The first Circle's centre is: 5.0, 5.0
+It's radius is: 3.0
+It's area is: 28.3
+It's circumference is: 18.8
+The second Circle's centre is: 9.0, 9.0
+It's radius is: 2.0
+It's area is: 12.6
+It's circumference is: 12.6
+The 'contains' method returns: false
+The 'touches' method returns: false
+
+

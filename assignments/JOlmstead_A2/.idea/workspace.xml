@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="283fd89c-72f9-4501-8a2b-6c30fbf79b71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iVil6CgzzcxVZ5AyUE6Nr7TIL3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StorageBinTester">
+    <configuration name="GradeAnalyzerTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E2.GradeAnalyzerTester" />
+      <module name="JOlmstead_A2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageBinTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StorageBinTester" />
+      <module name="JOlmstead_A2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="julia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="julia" />
+      <module name="JOlmstead_A2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StorageBinTester" />
+        <item itemvalue="Application.GradeAnalyzerTester" />
+        <item itemvalue="Application.julia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="283fd89c-72f9-4501-8a2b-6c30fbf79b71" name="Default Changelist" comment="" />
+      <created>1601999308003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601999308003</updated>
+      <workItem from="1601999309504" duration="6000" />
+      <workItem from="1601999327983" duration="2424000" />
+      <workItem from="1602081502606" duration="4767000" />
+      <workItem from="1602094555014" duration="2000" />
+      <workItem from="1602094607579" duration="908000" />
+      <workItem from="1602703508679" duration="174000" />
+      <workItem from="1602718744896" duration="10445000" />
+      <workItem from="1602798229384" duration="8660000" />
+      <workItem from="1603043953595" duration="39000" />
+      <workItem from="1603046139154" duration="14982000" />
+      <workItem from="1603301861171" duration="1171000" />
+      <workItem from="1603322257786" duration="60000" />
+      <workItem from="1603932274832" duration="859000" />
+      <workItem from="1604428175301" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1602092040759">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1602092040759" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603155153152">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603155153152" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603155153151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603155153151" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603155153151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603155153151" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603155153151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603155153151" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1602854631446">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602854631446" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1602854631445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1602854631445" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1602854631445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1602854631445" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1602854631446">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1602854631446" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1603301862400">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1603301862400" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1603151816353">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1603151816353" />
+  </component>
+</project>

@@ -1,0 +1,70 @@
+\The first Rectangle's top corner is: 1.0, 1.0
+It's width is: 5.0
+It's height is: 5.0
+
+The second Rectangle's top corner is: 2.0, 2.0
+It's width is: 3.0
+It's height is: 3.0
+
+The 'contains' method returns: true
+The 'touches' method returns: false
+
+
+The first Rectangle's top corner is: 1.0, 1.0
+It's width is: 5.0
+It's height is: 5.0
+
+The second Rectangle's top corner is: 2.0, 2.0
+It's width is: 4.0
+It's height is: 4.0
+
+The 'contains' method returns: false
+The 'touches' method returns: true
+
+
+The first Rectangle's top corner is: 1.0, 1.0
+It's width is: 5.0
+It's height is: 5.0
+
+The second Rectangle's top corner is: 6.0, 0.0
+It's width is: 3.0
+It's height is: 1.0
+
+The 'contains' method returns: false
+The 'touches' method returns: true
+
+
+The first Rectangle's top corner is: 1.0, 1.0
+It's width is: 5.0
+It's height is: 5.0
+
+The second Rectangle's top corner is: 6.0, 2.0
+It's width is: 4.0
+It's height is: 4.0
+
+The 'contains' method returns: false
+The 'touches' method returns: true
+
+
+The first Rectangle's top corner is: 1.0, 1.0
+It's width is: 5.0
+It's height is: 5.0
+
+The second Rectangle's top corner is: 4.0, 2.0
+It's width is: 4.0
+It's height is: 3.0
+
+The 'contains' method returns: false
+The 'touches' method returns: false
+
+
+The first Rectangle's top corner is: 1.0, 1.0
+It's width is: 5.0
+It's height is: 5.0
+
+The second Rectangle's top corner is: 8.0, 2.0
+It's width is: 4.0
+It's height is: 4.0
+
+The 'contains' method returns: false
+The 'touches' method returns: false

@@ -1,0 +1,8 @@
+E1out
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57615:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/lab5/out/production/lab5" AverageAnalyzerTester
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/lab5/Exercise1Input.txt
+the mean is : 48.58064516129032
+the mode is: 86
+
+Process finished with exit code 0

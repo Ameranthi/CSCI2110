@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Output before Pizza:\
+\
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52037:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/out/production/Lab4" ExpenseListDemo\
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/src/Expenses.txt\
+September Expenses\
+The max expense was: $360.01\
+The min expense was: $4.51\
+The avg expense was: $76.635\
+The amount spent on groceries was: $95.13\
+\
+Process finished with exit code 0\
+\
+\
+Output with PIZZA: \
+\
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52931:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/out/production/Lab4" ExpenseListDemo\
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/src/Expenses.txt\
+September Expenses\
+The max expense was: $360.01\
+The min expense was: $4.51\
+The avg expense was: $76.635\
+The amount spent on groceries was: $95.13\
+The amount spent on pizza was: $11.5\
+\
+Process finished with exit code 0\
+}

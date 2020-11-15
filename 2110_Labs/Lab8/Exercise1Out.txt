@@ -1,0 +1,95 @@
+Exercise1Out
+FIRST: 
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62264:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Git/CSCI 2110/2110_Labs/Lab8/out/production/Lab8" Exercise1
+Raspberry
+Chocolate
+Vanilla
+Mango
+Cinnamon
+done
+Height of the tree is: 2
+Number of nodes in the tree is: 5
+
+Inorder:	Mango	Chocolate	Cinnamon	Raspberry	Vanilla	
+Preorder:	Raspberry	Chocolate	Mango	Cinnamon	Vanilla	
+Postorder:	Mango	Cinnamon	Chocolate	Vanilla	Raspberry	
+Level order:	Raspberry	Chocolate	Vanilla	Mango	Cinnamon	
+
+The tree is height balanced... Yes!
+
+
+Process finished with exit code 0
+
+SECOND: 
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62294:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Git/CSCI 2110/2110_Labs/Lab8/out/production/Lab8" Exercise1
+Compond
+ifs
+are
+dumb
+bad
+design
+done
+Height of the tree is: 3
+Number of nodes in the tree is: 6
+
+Inorder:	dumb	ifs	bad	Compond	design	are	
+Preorder:	Compond	ifs	dumb	bad	are	design	
+Postorder:	dumb	bad	ifs	design	are	Compond	
+Level order:	Compond	ifs	are	dumb	bad	design	
+
+The tree is height balanced... Yes!
+
+
+Process finished with exit code 0
+
+THIRD: 
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62306:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Git/CSCI 2110/2110_Labs/Lab8/out/production/Lab8" Exercise1
+Starwars
+StarTrek
+StarGate
+Futurama
+RickandMorty
+Barbie
+done
+Height of the tree is: 3
+Number of nodes in the tree is: 6
+
+Inorder:	Futurama	StarTrek	RickandMorty	Starwars	Barbie	StarGate	
+Preorder:	Starwars	StarTrek	Futurama	RickandMorty	StarGate	Barbie	
+Postorder:	Futurama	RickandMorty	StarTrek	Barbie	StarGate	Starwars	
+Level order:	Starwars	StarTrek	StarGate	Futurama	RickandMorty	Barbie	
+
+The tree is height balanced... Yes!
+
+
+Process finished with exit code 0
+
+FOURTH:
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=62326:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Git/CSCI 2110/2110_Labs/Lab8/out/production/Lab8" Exercise1
+chloe
+julia
+eldon
+dawn
+logan
+zoe
+spiderpig
+bacon
+moose
+ronnie
+duke
+tugger
+done
+Height of the tree is: 3
+Number of nodes in the tree is: 12
+
+Inorder:	bacon	dawn	moose	julia	ronnie	logan	duke	chloe	tugger	zoe	eldon	spiderpig	
+Preorder:	chloe	julia	dawn	bacon	moose	logan	ronnie	duke	eldon	zoe	tugger	spiderpig	
+Postorder:	bacon	moose	dawn	ronnie	duke	logan	julia	tugger	zoe	spiderpig	eldon	chloe	
+Level order:	chloe	julia	eldon	dawn	logan	zoe	spiderpig	bacon	moose	ronnie	duke	tugger	
+
+The tree is height balanced... No.
+
+
+Process finished with exit code 0
+

@@ -1,0 +1,38 @@
+Output before Pizza:
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52037:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/out/production/Lab4" ExpenseListDemo
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/src/Expenses.txt
+September Expenses
+The max expense was: $360.01
+The min expense was: $4.51
+The avg expense was: $76.635
+The amount spent on groceries was: $95.13
+
+Process finished with exit code 0
+
+
+Output with PIZZA: 
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52931:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/out/production/Lab4" ExpenseListDemo
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/src/Expenses.txt
+September Expenses
+The max expense was: $360.01
+The min expense was: $4.51
+The avg expense was: $76.635
+The amount spent on groceries was: $95.13
+The amount spent on pizza was: $11.5
+
+Process finished with exit code 0
+
+With total expense
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=55199:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/out/production/Lab4" ExpenseListDemo
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/src/Expenses.txt
+September Expenses
+The max expense was: $360.01
+The min expense was: $4.51
+The avg expense was: $76.635
+The amount spent on groceries was: $95.13
+The amount spent on pizza was: $11.5
+The total expenses were: $919.62
+
+Process finished with exit code 0

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0200ea6-63fa-4c57-9419-9c67ab7a83a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hpSJoW51hUHaIX0Z58kbEemcn8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Prime">
+    <configuration name="MatrixMult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixMult" />
+      <module name="lab2" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/input/e1input.rtf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Prime" />
+      <module name="lab2" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/input/e1input.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MatrixMult" />
+      <item itemvalue="Application.Prime" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.MatrixMult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0200ea6-63fa-4c57-9419-9c67ab7a83a6" name="Default Changelist" comment="" />
+      <created>1600706470394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600706470394</updated>
+      <workItem from="1600706471843" duration="146000" />
+      <workItem from="1600710931220" duration="150000" />
+      <workItem from="1600711137346" duration="73000" />
+      <workItem from="1600711216589" duration="739000" />
+      <workItem from="1600712393638" duration="2103000" />
+      <workItem from="1601140414408" duration="38000" />
+      <workItem from="1601143574667" duration="2700000" />
+      <workItem from="1601146815828" duration="95000" />
+      <workItem from="1601146924968" duration="2054000" />
+      <workItem from="1601151770380" duration="10079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1601147130537">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1601147130537" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601244798084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601244798084" />
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600706899366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="569" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1600706899366" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601246221907">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601246221907" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601246221905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601246221905" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601246221904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601246221904" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601246221906">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601246221906" />
+    <state x="208" y="23" width="1024" height="808" key="SettingsEditor" timestamp="1601147117354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="23" width="1024" height="808" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601147117354" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1601151773691">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1601151773691" />
+    <state x="301" y="175" width="837" height="550" key="find.popup" timestamp="1601146802366">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="175" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1601146802366" />
+    <state x="357" y="72" key="new project wizard" timestamp="1600711016126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="357" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1600711016126" />
+  </component>
+</project>

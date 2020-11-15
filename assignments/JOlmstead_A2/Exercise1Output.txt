@@ -1,0 +1,79 @@
+Exercise 1 Output
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=57872:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/assignments/JOlmstead_A2/out/production/JOlmstead_A2" StorageBinTester
+Enter tools to be stored in the format ItemName ID
+Enter quit to end the list of tools
+hammer 1
+Item added
+hammer 2
+Item added
+level 3
+Item added
+level 4
+Item added
+saw 5
+Item added
+saw 6
+Item added
+saw 7
+Item added
+hammer 7
+There is already a tool with that item ID.
+hammer 8
+Item added
+quit
+Items in storage:
+Item hammer: I hammer stuff ID: 1
+Item hammer: I hammer stuff ID: 2
+Item level: I make sure everything is even ID: 3
+Item level: I make sure everything is even ID: 4
+Item saw: I saw stuff ID: 5
+Item saw: I saw stuff ID: 6
+Item saw: I saw stuff ID: 7
+Item hammer: I hammer stuff ID: 8
+
+Would you like to retrieve a tool and add it to the workbelt? yes/no
+yes
+Please enter the unique tool ID of the tool you would like to put into your workbelt
+7
+sawI saw stuff
+Item removed from bin and placed on workbelt
+Would you like to retrieve a tool and add it to the workbelt? yes/no
+yes
+Please enter the unique tool ID of the tool you would like to put into your workbelt
+5
+sawI saw stuff
+Item removed from bin and placed on workbelt
+Would you like to retrieve a tool and add it to the workbelt? yes/no
+yes
+Please enter the unique tool ID of the tool you would like to put into your workbelt
+10
+Tool was not found in the bin, unable to add to workbelt
+Would you like to retrieve a tool and add it to the workbelt? yes/no
+yes
+Please enter the unique tool ID of the tool you would like to put into your workbelt
+6
+sawI saw stuff
+Item removed from bin and placed on workbelt
+Would you like to retrieve a tool and add it to the workbelt? yes/no
+yes
+Please enter the unique tool ID of the tool you would like to put into your workbelt
+6
+Tool was not found in the bin, unable to add to workbelt
+Would you like to retrieve a tool and add it to the workbelt? yes/no
+no
+Okay, Have a nice day!
+Items in storage:
+Item hammer: I hammer stuff ID: 1
+Item hammer: I hammer stuff ID: 2
+Item level: I make sure everything is even ID: 3
+Item level: I make sure everything is even ID: 4
+Item hammer: I hammer stuff ID: 8
+
+Items on workbelt:
+Item saw: I saw stuff
+Item saw: I saw stuff
+Item saw: I saw stuff
+
+
+Process finished with exit code 0

@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Exercise 1 Output\
+\
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=56783:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/assignments/JOlmstead_A2/out/production/JOlmstead_A2" StorageBinTester\
+Enter tools to be stored in the format ItemName ID\
+Enter quit to end the list of tools\
+hammer 3\
+Item added\
+saw 4\
+Item added\
+level 7\
+Item added\
+saw 3\
+There is already a tool with that item ID.\
+saw 9\
+Item added\
+quit\
+Items in storage:\
+Item hammer: I hammer stuff ID: 3\
+Item saw: I saw stuff ID: 4\
+Item level: I saw stuff ID: 7\
+Item saw: I saw stuff ID: 9\
+\
+Would you like to retrieve a tool and add it to the workbelt? yes/no\
+yes\
+Please enter the unique tool ID of the tool you would like to put into your workbelt\
+9\
+sawI saw stuff\
+Item removed from bin and placed on workbelt\
+Would you like to retrieve a tool and add it to the workbelt? yes/no\
+yes\
+Please enter the unique tool ID of the tool you would like to put into your workbelt\
+100\
+Tool was not found in the bin, unable to add to workbelt\
+Would you like to retrieve a tool and add it to the workbelt? yes/no\
+yes\
+Please enter the unique tool ID of the tool you would like to put into your workbelt\
+3\
+hammerI hammer stuff\
+Item removed from bin and placed on workbelt\
+Would you like to retrieve a tool and add it to the workbelt? yes/no\
+no\
+Okay, Have a nice day!\
+Items in storage:\
+Item saw: I saw stuff ID: 4\
+Item level: I saw stuff ID: 7\
+\
+ Items on workbelt\
+Item saw: I saw stuff\
+Item hammer: I hammer stuff\
+\
+Process finished with exit code 0\
+}

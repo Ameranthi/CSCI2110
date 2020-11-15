@@ -1,0 +1,27 @@
+Exercise 2 Output 
+
+/Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=56120:/Applications/IntelliJ IDEA.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/out/production/Lab4" GeographyQuiz
+Enter the filename to read from: /Users/julia/Desktop/CSCI 2110/2110_Labs/Lab4/src/CountryCapitals.txt
+Welcome to the Country-Capital Quiz
+Play?
+play
+What is the capital of Thailand
+Bangkok
+Correct, 
+Play?
+play
+What is the Country has Suva as it's capital?
+Iceland
+Incorrect. The correct answer is Fiji 
+Play?
+play
+What is the capital of Angola
+Luanda
+Correct, 
+Play?
+no
+Game over.
+Game Stats: 
+Questions played: 3.0
+Correct answers: 2.0
+Score: 66.66666666666666%

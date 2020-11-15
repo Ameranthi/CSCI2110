@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2337cc35-7851-4852-93af-360e6aab5fea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hVf2bQzR0cKAQhZjnmKQKFXBXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2337cc35-7851-4852-93af-360e6aab5fea" name="Default Changelist" comment="" />
+      <created>1600100973741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600100973741</updated>
+      <workItem from="1600100977203" duration="75000" />
+      <workItem from="1600101105450" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1600100983174">
+      <screen x="0" y="23" width="1440" height="779" />
+    </state>
+    <state x="397" y="245" key="com.intellij.ide.util.TipDialog/0.23.1440.779@0.23.1440.779" timestamp="1600100983174" />
+    <state x="357" y="35" key="new project wizard" timestamp="1600101045651">
+      <screen x="0" y="23" width="1440" height="779" />
+    </state>
+    <state x="357" y="35" key="new project wizard/0.23.1440.779@0.23.1440.779" timestamp="1600101045651" />
+  </component>
+</project>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec68f72-e2dc-445b-b05a-343fe8a03816" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i7ZuqtlbsSzmYRIZbafCl85Edf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.GenericStackTester">
+    <configuration name="GenericQueueTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericQueueTester" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericStackTester" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericStackTesterV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericStackTesterV1" />
+      <module name="lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenericStackTester" />
+        <item itemvalue="Application.GenericQueueTester" />
+        <item itemvalue="Application.GenericStackTesterV1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec68f72-e2dc-445b-b05a-343fe8a03816" name="Default Changelist" comment="" />
+      <created>1601260816080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601260816080</updated>
+      <workItem from="1601260819213" duration="987000" />
+      <workItem from="1601689298996" duration="5045000" />
+      <workItem from="1601750662462" duration="10820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="127" key="#GenericStackTester" timestamp="1601836596750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="396" y="127" key="#GenericStackTester/0.0.1440.900@0.0.1440.900" timestamp="1601836596750" />
+    <state x="320" y="115" key="#Project_Structure" timestamp="1601750571535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1601750571535" />
+    <state x="458" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601747611795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="223" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601747611795" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601750494736">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601750494736" />
+    <state width="1398" height="354" key="GridCell.Tab.0.bottom" timestamp="1601839319990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="354" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601839319990" />
+    <state width="1398" height="354" key="GridCell.Tab.0.center" timestamp="1601839319990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="354" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601839319990" />
+    <state width="1398" height="354" key="GridCell.Tab.0.left" timestamp="1601839319989">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="354" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601839319989" />
+    <state width="1398" height="354" key="GridCell.Tab.0.right" timestamp="1601839319990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="354" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601839319990" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1601839319984">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601839319984" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1601839319983">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601839319983" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1601839319982">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601839319982" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1601839319983">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601839319983" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1601689298923">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1601689298923" />
+    <state x="357" y="72" key="new project wizard" timestamp="1601415518945">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="357" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1601415518945" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GenericStack.java</url>
+          <line>17</line>
+          <properties class="GenericStack" method="pop">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenericStackTester.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenericStackTester.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenericStack.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenericStack.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GenericStack.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
